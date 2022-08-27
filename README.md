@@ -45,19 +45,44 @@ The report should contain the following:
 
 ![](https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/2022-08-27%20(6).png)
 
-Report_df
+### Report_df(AlphabetSoupCharity)
+model_loss, model_accuracy = nn.evaluate(X_test_scaled,y_test,verbose=2)
+print(f"Loss: {model_loss}, Accuracy: {model_accuracy}")
+
+268/268 - 1s - loss: 0.5624 - accuracy: 0.7235 - 733ms/epoch - 3ms/step
+Loss: 0.562383770942688, Accuracy: 0.723498523235321
+
 ![](https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_df.png)
 
 
-Report_1_df
+### Report_1_df (AlphabetSoupCharity_Optimzation_1)
+model_loss, model_accuracy = nn.evaluate(X_test_scaled,y_test,verbose=2)
+print(f"Loss: {model_loss}, Accuracy: {model_accuracy}")
+
+268/268 - 0s - loss: 0.6607 - accuracy: 0.6075 - 165ms/epoch - 615us/step
+Loss: 0.6607240438461304, Accuracy: 0.607463538646698
+
 ![](https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_1_df.png)
 
 
-Report_2_df
+  ### Report_2_df(AlphabetSoupCharity_Optimzation_2)
+  model_loss, model_accuracy = nn.evaluate(X_test_scaled,y_test,verbose=2)
+print(f"Loss: {model_loss}, Accuracy: {model_accuracy}")
+
+268/268 - 1s - loss: 0.6418 - accuracy: 0.6199 - 524ms/epoch - 2ms/step
+Loss: 0.6417614221572876, Accuracy: 0.6199417114257812
+
 ![](https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_2_df.png)
 
 
-Report_3_df
+  ### Report_3_df (AlphabetSoupCharity_Optimzation_3)
+
+  model_loss, model_accuracy = nn.evaluate(X_test_scaled,y_test,verbose=2)
+print(f"Loss: {model_loss}, Accuracy: {model_accuracy}")
+
+268/268 - 0s - loss: 0.5629 - accuracy: 0.7284 - 181ms/epoch - 674us/step
+Loss: 0.5628575086593628, Accuracy: 0.728396475315094
+
 ![](https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_3_df.png)
 
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
