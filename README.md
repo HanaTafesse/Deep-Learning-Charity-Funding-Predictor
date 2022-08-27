@@ -42,15 +42,13 @@ The report should contain the following:
     * Were you able to achieve the target model performance?
     * What steps did you take in your attempts to increase model performance?
 
-    ![Report_df]
-    ![https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_df.png]
+![Report_df]https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_df.png)
 
-    [Report_1_df]
-    !(https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_1_df.png)
+![Report_1_df](https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_1_df.png)
 
-    ![Report_2_df]https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image Report_2_df.png
+![Report_2_df]https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image Report_2_df.png
 
-    ![Report_3_df]https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image Report_3_df.png
+![Report_3_df]https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image Report_3_df.png
 
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
