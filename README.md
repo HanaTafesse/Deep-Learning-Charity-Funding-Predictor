@@ -43,7 +43,7 @@ The report should contain the following:
     * What steps did you take in your attempts to increase model performance?
 
     ![Report_df]
-    (https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_df.png)
+    ![https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_df.png]
 
     [Report_1_df]
     !(https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_1_df.png)
