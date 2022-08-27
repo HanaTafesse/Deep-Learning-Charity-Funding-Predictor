@@ -46,7 +46,7 @@ The report should contain the following:
 
     ![Report_1_df](https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_1_df.png)
 
-    ![Report_2_df]https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_2_df.png
+    ![Report_2_df]https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image Report_2_df.png
 
     ![Report_3_df]https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image Report_3_df.png
 
