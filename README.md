@@ -42,9 +42,11 @@ The report should contain the following:
     * Were you able to achieve the target model performance?
     * What steps did you take in your attempts to increase model performance?
 
-    ![Report_df](https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_df.png)
+    ![Report_df]
+    (https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_df.png)
 
-    ![Report_1_df](https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_1_df.png)
+    [Report_1_df]
+    !(https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image/Report_1_df.png)
 
     ![Report_2_df]https://github.com/HanaTafesse/Deep-Learning-Charity-Funding-Predictor/blob/main/Resources/image Report_2_df.png
 
